@@ -34,7 +34,6 @@ nav ul li a{
 
 nav ul li a:hover{
   text-decoration: underline solid #495E57;
-  
 }
 
 .menu-icon {
@@ -184,7 +183,7 @@ input, label{
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 2rem 1rem;
+  gap: 2rem 0.3rem;
 }
 
 .menu-items{
